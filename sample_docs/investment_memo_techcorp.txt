@@ -1,0 +1,134 @@
+Investment Decision Memorandum
+Series B Funding Round – TechCorp
+===================================
+
+Date: January 2025
+Prepared by: Investment Committee
+Classification: Strictly Confidential
+
+1. Transaction Overview
+-----------------------
+TechCorp is seeking €50 million in Series B financing to fund:
+  - Product development: €20 million (40%)
+  - Geographic expansion into the US market: €18 million (36%)
+  - Working capital and debt refinancing: €12 million (24%)
+
+The current pre-money valuation is €180 million, implying a post-money
+valuation of €230 million. This represents a 2.3x step-up from the Series A
+valuation of €100 million in 2022.
+
+2. Business Overview
+--------------------
+TechCorp develops AI-powered enterprise software solutions with a focus on
+supply chain optimisation. Founded in 2019, the company has grown revenue
+at a 45% CAGR over the past three years. Key metrics:
+  - ARR: €28 million (as of Q3 2024)
+  - Net Revenue Retention (NRR): 118%
+  - Gross Margin: 72%
+  - Burn Rate: €1.8 million per month
+
+3. Investment Thesis
+--------------------
+The investment is predicated on three key pillars:
+
+Pillar 1 – Market Opportunity:
+The global supply chain optimisation software market is projected to reach
+$45 billion by 2028 (CAGR: 11.4%). TechCorp's AI-native architecture positions
+it well to capture share from legacy vendors who face significant technical debt.
+
+Pillar 2 – Product Differentiation:
+TechCorp's proprietary demand forecasting engine achieves 94% accuracy vs
+the industry average of 82%. Patent protection covers three core algorithms.
+The technology moat is considered sustainable for 3-5 years.
+
+Pillar 3 – Management Team:
+The founding team has two prior exits (one IPO, one strategic acquisition).
+The recently appointed CFO brings public-company financial reporting experience.
+The CTO is a recognised authority in applied machine learning.
+
+4. Financial Projections
+-------------------------
+The following projections are based on management assumptions:
+
+Year     ARR        Revenue    EBITDA    EBITDA Margin
+2024E    €28M       €24M       -€8M      -33%
+2025E    €42M       €36M       -€3M      -8%
+2026E    €62M       €54M       €8M       15%
+2027E    €88M       €78M       €20M      26%
+
+Key Assumptions:
+- 12 new enterprise logo additions per quarter from 2025
+- US market contributing 30% of new ARR by end of 2026
+- Gross margin improvement to 76% by 2026 through infrastructure optimisation
+
+5. Risk Assessment
+------------------
+The Investment Committee has identified the following material risks:
+
+Risk 1 – Revenue Concentration (HIGH):
+The top 3 clients represent 62% of total revenue. Loss of any single large
+client would materially impair the financial projections. This risk is partially
+mitigated by long-term contracts (average 2.3-year remaining term) and high
+NRR indicating strong customer satisfaction.
+
+Risk 2 – US Market Entry (MEDIUM-HIGH):
+Entering the US market introduces execution risk, regulatory complexity, and
+requires significant upfront investment. US competitors are well-capitalised.
+Management's prior US experience partially mitigates this risk.
+
+Risk 3 – Debt Refinancing (MEDIUM):
+€85 million in debt maturing in Q3 2025 represents a near-term liquidity risk.
+Proceeds from this Series B round provide a partial buffer. However, if
+refinancing fails under unfavourable conditions, covenants may be triggered.
+
+Risk 4 – Regulatory Compliance (MEDIUM):
+Pending EU data privacy regulation compliance (75% complete) carries execution
+risk. A €1.2 million budget shortfall has been identified. Non-compliance fines
+could reach 4% of global turnover.
+
+Risk 5 – Technology Disruption (LOW-MEDIUM):
+Rapid advancement in AI technology could erode TechCorp's competitive advantage
+faster than anticipated. The company must continuously invest in R&D to maintain
+its accuracy advantage.
+
+Aggregate Risk Score: 6.8/10 (MEDIUM-HIGH)
+
+6. Valuation Analysis
+---------------------
+Comparable Company Analysis:
+  - EV/ARR multiple (comparable SaaS peers): 6.0x – 9.0x
+  - Implied valuation at 6.5x ARR: €182M (in line with ask)
+  - Implied valuation at 8.0x ARR: €224M (above ask)
+
+DCF Analysis (WACC: 18%, Terminal Growth: 5%):
+  - Base Case NPV: €195M
+  - Bear Case NPV: €130M (customer churn increases by 20%)
+  - Bull Case NPV: €265M (US expansion outperforms by 30%)
+
+Blended Valuation: €185M – slightly above current pre-money ask of €180M.
+The investment appears fairly valued on a blended basis with upside optionality
+from the US expansion.
+
+7. Terms and Conditions
+------------------------
+- Investment: €50 million for 21.7% equity stake
+- Preference: 1.5x non-participating liquidation preference
+- Anti-dilution: Weighted average broad-based
+- Board seats: 2 of 7
+- Pro-rata rights: Full pro-rata in subsequent rounds
+- Information rights: Monthly management accounts, annual audited financials
+
+8. Committee Recommendation
+-----------------------------
+The Investment Committee recommends PROCEEDING with the investment subject to:
+  1. Satisfactory completion of financial and legal due diligence
+  2. Confirmation of debt refinancing progress with at least one term sheet
+  3. Resolution of outstanding data privacy compliance matters
+  4. Management sign-off on the US market entry plan with milestones
+
+Confidence in Return: MEDIUM-HIGH
+Expected Return Multiple: 3.5x – 5.0x over 5-year horizon
+IRR Estimate: 28% – 38%
+
+Approved by: Investment Committee Chairman
+Date: January 2025
